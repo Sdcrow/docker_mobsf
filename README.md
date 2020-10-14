@@ -1,5 +1,5 @@
 # Docker_MobSF
-Docker_MobSF is a dockerized Mobile Security Framework on CentOS for quick/easy deployment.
+Sdcrow_MobSF is a dockerized Mobile Security Framework on CentOS for quick/easy deployment.
 
 ## Usage
 
